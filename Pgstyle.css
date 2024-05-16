@@ -1,0 +1,12 @@
+* {
+    margin:0;
+    padding :0;
+    font-family:sans-serif;
+}
+.banner{
+    width :100%;
+    height:500vh;
+    background-image:linear-gradient(rgba(166, 166, 166, 0.75),rgba(123, 123, 123, 0.75)),url(https://www.politico.com/dims4/default/a9d5cc4/2147483647/legacy_thumbnail/1200x792%3E/quality/90/?url=https:%2F%2Fstatic.politico.com%2F9d%2F81%2F24318c5d4f34a0cf86aac5d0a279%2Fb6p3k0.jpeg);
+    background-size: cover;
+    background-position:center;
+}
